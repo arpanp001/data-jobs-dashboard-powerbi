@@ -1,6 +1,6 @@
 # 📊 Data Jobs Dashboard (Power BI)
 
-![Dashboard Demo](Powerbi_Gifs/Dashboard.gif)
+![Dashboard Demo](Powerbi_Gifs/DrillThrough.gif)
 
 > 🚀 An interactive Power BI dashboard analyzing the **2024 data job market**, including salary trends, job demand, and hiring patterns.
 
@@ -82,7 +82,7 @@ make **data-driven career decisions**.
 
 ### 🔹 5. Drill-Through Analysis
 
-![Drill](Powerbi_Gifs/DrillThrough.gif)
+![Drill](Powerbi_Gifs/Dashboard.gif)
 
 - 🔍 Deep dive into specific job roles
 - 📊 Detailed salary insights
