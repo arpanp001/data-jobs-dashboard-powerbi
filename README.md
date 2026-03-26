@@ -39,6 +39,14 @@ make **data-driven career decisions**.
 
 ---
 
+## 📁 Dataset
+
+Due to GitHub file size limitations, the full dataset cannot be uploaded directly.
+
+🔗 **Download Full Dataset:** [Click Here](https://drive.google.com/file/d/1fMS0pM-52hbebP4q_wTdz74B_HOslmLa/view?usp=sharing)
+
+---
+
 ## 📊 Dashboard Features
 
 ### 🔹 1. Overview Dashboard
